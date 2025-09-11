@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RabbitMq.Producer\\RabbitMq.Producer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

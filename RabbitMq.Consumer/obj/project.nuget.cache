@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9ZArOV+v3w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\RabbitMq\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
