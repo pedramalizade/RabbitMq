@@ -1,1 +1,1 @@
-RabbitMq With Docker
+RabbitMQ With Docker
